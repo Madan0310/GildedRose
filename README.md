@@ -1,7 +1,3 @@
-Huge thank you to Emily Bache for her original repository, from which this attempt at a solution is based:
-
-https://github.com/emilybache/GildedRose-Refactoring-Kata
-
 ======================================
 Gilded Rose Requirements Specification
 ======================================
